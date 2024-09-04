@@ -1,0 +1,147 @@
+[
+  {
+    "modelName": "VendorKyc",
+    "modelNameCamelCase": "vendorKyc",
+    "modelNamePlural": "VendorKycs",
+    "modelNamePluralCamelCase": "vendorKycs",
+    "modelNamePluralLowerCase": "vendorkycs",
+    "modelNameLowerCase": "vendorkyc",
+    "modelNameUpperCase": "VENDORKYC",
+    "namespace": "App\\Feature\\Vendor",
+    "tableName": "vendor_kyc",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "StationCoverage",
+    "modelNameCamelCase": "stationCoverage",
+    "modelNamePlural": "StationCoverages",
+    "modelNamePluralCamelCase": "stationCoverages",
+    "modelNamePluralLowerCase": "stationcoverages",
+    "modelNameLowerCase": "stationcoverage",
+    "modelNameUpperCase": "STATIONCOVERAGE",
+    "namespace": "App\\Feature\\Station",
+    "tableName": "station_coverage",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "Company",
+    "modelNameCamelCase": "company",
+    "modelNamePlural": "Companies",
+    "modelNamePluralCamelCase": "companies",
+    "modelNamePluralLowerCase": "companies",
+    "modelNameLowerCase": "company",
+    "modelNameUpperCase": "COMPANY",
+    "namespace": "App\\Feature\\Company",
+    "tableName": "companies",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "Customer",
+    "modelNameCamelCase": "customer",
+    "modelNamePlural": "Customers",
+    "modelNamePluralCamelCase": "customers",
+    "modelNamePluralLowerCase": "customers",
+    "modelNameLowerCase": "customer",
+    "modelNameUpperCase": "CUSTOMER",
+    "namespace": "App\\Feature\\Customer",
+    "tableName": "customers",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "Vehicle",
+    "modelNameCamelCase": "vehicle",
+    "modelNamePlural": "Vehicles",
+    "modelNamePluralCamelCase": "vehicles",
+    "modelNamePluralLowerCase": "vehicles",
+    "modelNameLowerCase": "vehicle",
+    "modelNameUpperCase": "VEHICLE",
+    "namespace": "App\\Feature\\Fleet",
+    "tableName": "vehicles",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "DriverRate",
+    "modelNameCamelCase": "driverRate",
+    "modelNamePlural": "DriverRates",
+    "modelNamePluralCamelCase": "driverRates",
+    "modelNamePluralLowerCase": "driverrates",
+    "modelNameLowerCase": "driverrate",
+    "modelNameUpperCase": "DRIVERRATE",
+    "namespace": "App\\Feature\\Contract",
+    "tableName": "driver_rates",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "LoaderRate",
+    "modelNameCamelCase": "loaderRate",
+    "modelNamePlural": "LoaderRates",
+    "modelNamePluralCamelCase": "loaderRates",
+    "modelNamePluralLowerCase": "loaderrates",
+    "modelNameLowerCase": "loaderrate",
+    "modelNameUpperCase": "LOADERRATE",
+    "namespace": "App\\Feature\\Contract",
+    "tableName": "loader_rates",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "Office",
+    "modelNameCamelCase": "office",
+    "modelNamePlural": "Offices",
+    "modelNamePluralCamelCase": "offices",
+    "modelNamePluralLowerCase": "offices",
+    "modelNameLowerCase": "office",
+    "modelNameUpperCase": "OFFICE",
+    "namespace": "App\\Feature\\Office",
+    "tableName": "offices",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "CpKyc",
+    "modelNameCamelCase": "cpKyc",
+    "modelNamePlural": "CpKycs",
+    "modelNamePluralCamelCase": "cpKycs",
+    "modelNamePluralLowerCase": "cpkycs",
+    "modelNameLowerCase": "cpkyc",
+    "modelNameUpperCase": "CPKYC",
+    "namespace": "App\\Feature\\Office",
+    "tableName": "cp_kyc",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "Vendor",
+    "modelNameCamelCase": "vendor",
+    "modelNamePlural": "Vendors",
+    "modelNamePluralCamelCase": "vendors",
+    "modelNamePluralLowerCase": "vendors",
+    "modelNameLowerCase": "vendor",
+    "modelNameUpperCase": "VENDOR",
+    "namespace": "App\\Feature\\Vendor",
+    "tableName": "vendors",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "TenantKyc",
+    "modelNameCamelCase": "tenantKyc",
+    "modelNamePlural": "TenantKycs",
+    "modelNamePluralCamelCase": "tenantKycs",
+    "modelNamePluralLowerCase": "tenantkycs",
+    "modelNameLowerCase": "tenantkyc",
+    "modelNameUpperCase": "TENANTKYC",
+    "namespace": "App\\Feature\\Tenant",
+    "tableName": "tenant_kyc",
+    "primaryKeyName": "id"
+  },
+  {
+    "modelName": "Tenant",
+    "modelNameCamelCase": "tenant",
+    "modelNamePlural": "Tenants",
+    "modelNamePluralCamelCase": "tenants",
+    "modelNamePluralLowerCase": "tenants",
+    "modelNameLowerCase": "tenant",
+    "modelNameUpperCase": "TENANT",
+    "namespace": "App\\Feature\\Tenant",
+    "tableName": "tenants",
+    "primaryKeyName": "id"
+  }
+]
+  
